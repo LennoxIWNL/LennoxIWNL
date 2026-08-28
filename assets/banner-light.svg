@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" role="img" aria-label="Lennox">
+  <rect width="1000" height="200" fill="#ffffff"/>
+  <text x="4" y="94" fill="#0d1117" font-size="58" font-weight="600" text-anchor="start" letter-spacing="16" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">LENNOX</text>
+  <rect x="6" y="120" width="72" height="2" fill="#a8853a"/>
+  <text x="6" y="158" fill="#656d76" font-size="21" font-weight="400" text-anchor="start" letter-spacing="0.4" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">Game frameworks, storefronts and the tools that run them.</text>
+  <text x="994" y="90" fill="#8c959f" font-size="14" font-weight="400" text-anchor="end" letter-spacing="3" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">GERMANY</text>
+  <text x="994" y="116" fill="#8c959f" font-size="14" font-weight="400" text-anchor="end" letter-spacing="3" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">420OASIS.DE</text>
+</svg>

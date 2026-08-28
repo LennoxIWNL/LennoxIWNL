@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 422" width="1000" height="422" role="img" aria-label="SOM framework architecture">
+  <rect width="1000" height="422" fill="#ffffff"/>
+  <text x="4" y="22" fill="#1f2328" font-size="14" font-weight="600" text-anchor="start" letter-spacing="3" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">SOM FRAMEWORK</text>
+  <text x="4" y="44" fill="#656d76" font-size="14" font-weight="400" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">Request path. Nothing a client says is trusted.</text>
+  <text x="996" y="22" fill="#8c959f" font-size="13" font-weight="400" text-anchor="end" letter-spacing="2" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">143 LOADABLE RESOURCES</text>
+  <text x="996" y="44" fill="#8c959f" font-size="13" font-weight="400" text-anchor="end" letter-spacing="2" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">24 SOM MODULES  /  38 TABLES  /  0 QBCORE</text>
+  <rect x="0" y="74" width="250" height="214" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="20" y="108" fill="#656d76" font-size="12" font-weight="600" text-anchor="start" letter-spacing="3" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">CLIENT</text>
+  <text x="20" y="140" fill="#1f2328" font-size="14" font-weight="500" text-anchor="start" letter-spacing="0" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace">som-interact</text>
+  <text x="230" y="140" fill="#8c959f" font-size="12" font-weight="400" text-anchor="end" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">targets, TextUI</text>
+  <text x="20" y="170" fill="#1f2328" font-size="14" font-weight="500" text-anchor="start" letter-spacing="0" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace">som-radial</text>
+  <text x="230" y="170" fill="#8c959f" font-size="12" font-weight="400" text-anchor="end" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">the F1 wheel</text>
+  <text x="20" y="200" fill="#1f2328" font-size="14" font-weight="500" text-anchor="start" letter-spacing="0" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace">som-phone</text>
+  <text x="230" y="200" fill="#8c959f" font-size="12" font-weight="400" text-anchor="end" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">banking, apps</text>
+  <text x="20" y="230" fill="#1f2328" font-size="14" font-weight="500" text-anchor="start" letter-spacing="0" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace">som-multichar</text>
+  <text x="230" y="230" fill="#8c959f" font-size="12" font-weight="400" text-anchor="end" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">characters</text>
+  <text x="20" y="260" fill="#1f2328" font-size="14" font-weight="500" text-anchor="start" letter-spacing="0" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace">som-ui</text>
+  <text x="230" y="260" fill="#8c959f" font-size="12" font-weight="400" text-anchor="end" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">notifications</text>
+  <rect x="330" y="74" width="340" height="214" rx="10" fill="#fdf3f8" stroke="#f0b9d8" stroke-width="1"/>
+  <text x="354" y="114" fill="#bf3f8b" font-size="22" font-weight="600" text-anchor="start" letter-spacing="0" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace">som-core</text>
+  <text x="646" y="114" fill="#bf3f8b" font-size="11" font-weight="600" text-anchor="end" letter-spacing="2" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">THE ONLY AUTHORITY</text>
+  <circle cx="360" cy="143" r="3" fill="#bf3f8b"/>
+  <text x="376" y="148" fill="#1f2328" font-size="15" font-weight="400" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">players and characters</text>
+  <circle cx="360" cy="171" r="3" fill="#bf3f8b"/>
+  <text x="376" y="176" fill="#1f2328" font-size="15" font-weight="400" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">permissions and grades</text>
+  <circle cx="360" cy="199" r="3" fill="#bf3f8b"/>
+  <text x="376" y="204" fill="#1f2328" font-size="15" font-weight="400" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">the transaction bus</text>
+  <circle cx="360" cy="227" r="3" fill="#bf3f8b"/>
+  <text x="376" y="232" fill="#1f2328" font-size="15" font-weight="400" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">state bags</text>
+  <line x1="354" y1="242" x2="646" y2="242" stroke="#f0b9d8" stroke-width="1"/>
+  <text x="354" y="266" fill="#656d76" font-size="12.5" font-weight="400" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">Money, items, jobs: validated and mutated here only.</text>
+  <rect x="750" y="74" width="250" height="214" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="770" y="108" fill="#656d76" font-size="12" font-weight="600" text-anchor="start" letter-spacing="3" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">MARIADB</text>
+  <text x="770" y="140" fill="#1f2328" font-size="13" font-weight="500" text-anchor="start" letter-spacing="0" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace">som_transactions</text>
+  <text x="980" y="140" fill="#8c959f" font-size="12" font-weight="400" text-anchor="end" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">the ledger</text>
+  <text x="770" y="170" fill="#1f2328" font-size="13" font-weight="500" text-anchor="start" letter-spacing="0" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace">som_character_money</text>
+  <text x="980" y="170" fill="#8c959f" font-size="12" font-weight="400" text-anchor="end" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">balances</text>
+  <text x="770" y="200" fill="#1f2328" font-size="13" font-weight="500" text-anchor="start" letter-spacing="0" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace">som_businesses</text>
+  <text x="980" y="200" fill="#8c959f" font-size="12" font-weight="400" text-anchor="end" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">economy</text>
+  <text x="770" y="230" fill="#1f2328" font-size="13" font-weight="500" text-anchor="start" letter-spacing="0" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace">som_market</text>
+  <text x="980" y="230" fill="#8c959f" font-size="12" font-weight="400" text-anchor="end" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">saturation</text>
+  <text x="770" y="266" fill="#8c959f" font-size="12.5" font-weight="400" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">via oxmysql</text>
+  <line x1="258" y1="148" x2="322" y2="148" stroke="#afb8c1" stroke-width="1.5"/><path d="M 322 148 l -6 -4 l 0 8 z" fill="#afb8c1"/><text x="290.0" y="136" fill="#8c959f" font-size="11.5" font-weight="400" text-anchor="middle" letter-spacing="1" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">request</text>
+  <line x1="322" y1="206" x2="258" y2="206" stroke="#afb8c1" stroke-width="1.5"/><path d="M 258 206 l 6 -4 l 0 8 z" fill="#afb8c1"/><text x="290.0" y="194" fill="#8c959f" font-size="11.5" font-weight="400" text-anchor="middle" letter-spacing="1" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">state</text>
+  <line x1="678" y1="148" x2="742" y2="148" stroke="#afb8c1" stroke-width="1.5"/><path d="M 742 148 l -6 -4 l 0 8 z" fill="#afb8c1"/><text x="710.0" y="136" fill="#8c959f" font-size="11.5" font-weight="400" text-anchor="middle" letter-spacing="1" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">write</text>
+  <line x1="742" y1="206" x2="678" y2="206" stroke="#afb8c1" stroke-width="1.5"/><path d="M 678 206 l 6 -4 l 0 8 z" fill="#afb8c1"/><text x="710.0" y="194" fill="#8c959f" font-size="11.5" font-weight="400" text-anchor="middle" letter-spacing="1" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">read</text>
+  <rect x="0.0" y="318" width="320.0" height="104" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="20.0" y="350" fill="#1f2328" font-size="15" font-weight="600" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">The server decides.</text>
+  <text x="20.0" y="376" fill="#656d76" font-size="12.5" font-weight="400" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">A client requests. It never</text>
+  <text x="20.0" y="395" fill="#656d76" font-size="12.5" font-weight="400" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">asserts, and it is never</text>
+  <text x="20.0" y="414" fill="#656d76" font-size="12.5" font-weight="400" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">believed on its own word.</text>
+  <rect x="340.0" y="318" width="320.0" height="104" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="360.0" y="350" fill="#1f2328" font-size="15" font-weight="600" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">One writer.</text>
+  <text x="360.0" y="376" fill="#656d76" font-size="12.5" font-weight="400" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">Every balance change goes</text>
+  <text x="360.0" y="395" fill="#656d76" font-size="12.5" font-weight="400" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">through one function and lands</text>
+  <text x="360.0" y="414" fill="#656d76" font-size="12.5" font-weight="400" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">in the ledger with a reason.</text>
+  <rect x="680.0" y="318" width="320.0" height="104" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="700.0" y="350" fill="#1f2328" font-size="15" font-weight="600" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">Visibility is not permission.</text>
+  <text x="700.0" y="376" fill="#656d76" font-size="12.5" font-weight="400" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">A visible target option grants</text>
+  <text x="700.0" y="395" fill="#656d76" font-size="12.5" font-weight="400" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">nothing. Job, grade and distance</text>
+  <text x="700.0" y="414" fill="#656d76" font-size="12.5" font-weight="400" text-anchor="start" letter-spacing="0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">are re-checked on use.</text>
+</svg>
